@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\bin\Debug\net8.0\InheritanceTask.exe
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\bin\Debug\net8.0\InheritanceTask.deps.json
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\bin\Debug\net8.0\InheritanceTask.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\bin\Debug\net8.0\InheritanceTask.dll
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\bin\Debug\net8.0\InheritanceTask.pdb
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.sourcelink.json
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.dll
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\refint\InheritanceTask.dll
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.pdb
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\InheritanceTask.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\InheritanceTask\InheritanceTask\obj\Debug\net8.0\ref\InheritanceTask.dll

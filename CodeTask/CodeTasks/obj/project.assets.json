@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\CodeTasks.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\CodeTasks.csproj",
       "projectName": "CodeTasks",
-      "projectPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\CodeTasks.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\CodeTasks.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetasks\\codetasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetask\\codetasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|solutionrelative:codetasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetasks\\codetasks\\substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetask\\codetasks\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|solutionrelative:codetasks\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetask\\codetasks\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|solutionrelative:codetasks\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetask\\codetasks\\substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|solutionrelative:codetasks\\substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetasks\\codetasks\\customcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|c:\\users\\user\\desktop\\algoritm\\codetask\\codetasks\\customcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA4E17C-93CC-467C-AD5B-C07CECD876CA}|CodeTasks\\CodeTasks.csproj|solutionrelative:codetasks\\customcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,25 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Admin.cs",
+              "RelativeDocumentMoniker": "CodeTasks\\Admin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Admin.cs",
+              "RelativeToolTip": "CodeTasks\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:25:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\User.cs",
+              "RelativeDocumentMoniker": "CodeTasks\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\User.cs",
+              "RelativeToolTip": "CodeTasks\\User.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:21:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomContains.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\CustomContains.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\CustomContains.cs",
               "RelativeDocumentMoniker": "CodeTasks\\CustomContains.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\CustomContains.cs*",
-              "RelativeToolTip": "CodeTasks\\CustomContains.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\CustomContains.cs",
+              "RelativeToolTip": "CodeTasks\\CustomContains.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T12:48:06.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Substring.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\Substring.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Substring.cs",
               "RelativeDocumentMoniker": "CodeTasks\\Substring.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\Substring.cs*",
-              "RelativeToolTip": "CodeTasks\\Substring.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Substring.cs",
+              "RelativeToolTip": "CodeTasks\\Substring.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T12:44:39.518Z",
               "EditorCaption": ""
@@ -58,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Program.cs",
               "RelativeDocumentMoniker": "CodeTasks\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTasks\\CodeTasks\\Program.cs*",
-              "RelativeToolTip": "CodeTasks\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Algoritm\\CodeTask\\CodeTasks\\Program.cs",
+              "RelativeToolTip": "CodeTasks\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T12:44:12.916Z",
               "EditorCaption": ""

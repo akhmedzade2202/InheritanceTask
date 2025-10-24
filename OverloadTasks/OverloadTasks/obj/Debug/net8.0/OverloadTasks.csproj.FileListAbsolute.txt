@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\bin\Debug\net8.0\OverloadTasks.exe
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\bin\Debug\net8.0\OverloadTasks.deps.json
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\bin\Debug\net8.0\OverloadTasks.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\bin\Debug\net8.0\OverloadTasks.dll
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\bin\Debug\net8.0\OverloadTasks.pdb
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.dll
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\refint\OverloadTasks.dll
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.pdb
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\OverloadTasks.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\OverloadTasks\OverloadTasks\obj\Debug\net8.0\ref\OverloadTasks.dll
