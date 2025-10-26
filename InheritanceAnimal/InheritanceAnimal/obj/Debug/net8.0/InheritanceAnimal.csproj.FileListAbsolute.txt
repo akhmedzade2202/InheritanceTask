@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.exe
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.deps.json
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.dll
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.pdb
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.sourcelink.json
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.dll
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\refint\InheritanceAnimal.dll
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.pdb
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\ref\InheritanceAnimal.dll
